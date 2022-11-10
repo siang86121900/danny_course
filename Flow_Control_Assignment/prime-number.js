@@ -16,5 +16,3 @@ function prime(num) {
 
     }
 }
-
-prime(111)
